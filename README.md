@@ -1,7 +1,7 @@
 
 # **Machine Larning**
 
-Self Learning Practice Data 
+Self Learning by Help Of Datasets 
 ## Authors
 
 - [@Akash Kumar Jha](https://github.com/Akash1070)
