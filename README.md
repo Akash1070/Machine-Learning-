@@ -2,7 +2,24 @@
 # **Machine Larning**
 
 **Self Learning of Machine Learning Algorithm**
-naive-bayes, linear-regression,logistic-regression, support-vector-machine, random-search, k-nearest-neighbours,hierarchical-clustering, receiver-operating-characteristic, k-means-clustering, leave-one-out-cross-validation, area-under-curve, bootstrap-sampling, k-fold-cross-validation, underfitting-overfitting, grid-search-cv, ensemble-techniques
+
+
+naive-bayes, 
+linear-regression,
+logistic-regression, 
+support-vector-machine, 
+random-search,
+k-nearest-neighbours,
+hierarchical-clustering, 
+receiver-operating-characteristic, 
+k-means-clustering, 
+leave-one-out-cross-validation, 
+area-under-curve, 
+bootstrap-sampling, 
+k-fold-cross-validation, 
+underfitting-overfitting, 
+grid-search-cv, 
+ensemble-techniques
 
 ## Authors
 
